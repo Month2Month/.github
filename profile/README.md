@@ -1,6 +1,6 @@
 # Month2Month Engineering
 
-We build software that powers flexible, premium single-family home rentals across the United States.
+We build software that powers technology for efficient property management for flexible, premium single-family home month-to-month rentals across the United States.
 
 Our systems support property onboarding, leasing, operations, and investor reporting at scale.
 
@@ -14,17 +14,6 @@ Our systems support property onboarding, leasing, operations, and investor repor
 - Operations and maintenance tools
 - Data and analytics platform
 - Internal automation tools
-
----
-
-## Repository Structure
-
-- frontend-* → Web applications
-- backend-* → APIs and services
-- data-* → Data pipelines and analytics
-- infra-* → Infrastructure and deployment
-- shared-* → Shared libraries
-- experiments-* → Prototypes and experiments
 
 ---
 
